@@ -1,6 +1,6 @@
 # 🧬 Biohackaton – Single-cell Analysis Environment
 
-This repository provides a complete Docker-based setup for analyzing single-cell RNA-seq data from [GSE150728](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE150728), integrating both **R (Seurat)** and **Python (Scanpy + scVAG)** workflows in a unified JupyterLab environment.
+This repository provides a complete Docker-based setup for analyzing single-cell RNA-seq data from [GSE150728](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE150728), integrating both **R (Seurat)** and **Python (Scanpy )** workflows in a unified JupyterLab environment.
 
 ---
 
