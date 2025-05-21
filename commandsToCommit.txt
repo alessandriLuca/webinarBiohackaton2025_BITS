@@ -1,0 +1,4 @@
+git status #for checking
+git add * #for adding all the changes
+git commit # to save the changes locally
+git push # to push everything on the github
